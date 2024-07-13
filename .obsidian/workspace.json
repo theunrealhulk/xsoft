@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "2cce0033343c4d33",
+    "type": "split",
+    "children": [
+      {
+        "id": "20963e00fdade5ff",
+        "type": "tabs",
+        "dimension": 29.0587219343696,
+        "children": [
+          {
+            "id": "32a29409f245c182",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "back/Admin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad7a78c0781a7192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "back/Configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f21551e17840d77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "back/User.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf276c8eb099f3b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "App-Root.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fccdff9f9338fdfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Router.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78e04a4f6f3242f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stats.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0dda07d48beab2a1",
+        "type": "tabs",
+        "dimension": 70.9412780656304,
+        "children": [
+          {
+            "id": "8dc2bdbdc4e5c82c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8cc65e155b194d86",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9cd0b8ed349e2ca9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "dcd5519b4d93d285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "back/Admin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22848654a8547460",
+    "type": "split",
+    "children": [
+      {
+        "id": "3da1f1e06404b865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46278007a3e31ccf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc3062bd333885c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86ac676719d12a38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a102f974b9046236",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c6d8b5a5682d64b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "839892b04015ff34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b434f0291f0f872d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4efd249a30937e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f08c7a2a79c27e9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "9cd0b8ed349e2ca9",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "AuthService.md",
+    "login.md",
+    "back/Admin.md",
+    "Excalidraw/Drawing 2024-07-06 19.09.57.excalidraw.md",
+    "Router.md",
+    "Excalidraw",
+    "Config.md",
+    "QueryManager.md",
+    "back/Authentcation.md",
+    "Stats.md",
+    "Avatar.md",
+    "dashboard.md",
+    "ThemeSwitcher.md",
+    "Translation.md",
+    "App-Root.md",
+    "back/Profile.md",
+    "back",
+    "back/User.md",
+    "back/Permission.md",
+    "back/Configuration.md",
+    "back/UserPemissions.md"
+  ]
+}
